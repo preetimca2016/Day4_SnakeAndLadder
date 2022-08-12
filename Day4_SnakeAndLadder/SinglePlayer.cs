@@ -1,7 +1,7 @@
 ﻿using System;
-namespace SnakeAndLaderProblem
+namespace Day4_SnakeAndLadder
 {
-    class PlayerFirst
+    class FirstPlayer
     {
         public void Player1()
         {
